@@ -9,7 +9,7 @@ Jon_Kabat_Zinn_introduced_mindfulness__.tex
 A_meta_analysis_of_39__.tex
 One_specific_program_of_therapy__.tex
 As_a_specific_clinical_treatment__.tex
-Williams_et_al_2008_completed__.tex
+cite_williams_mindfulness_based_2008_completed_the__.tex
 x__.tex
 Expanding_upon_the_Williams_et__.tex
 In_2010_Weber_et_al__.tex
