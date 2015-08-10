@@ -17,3 +17,4 @@ This_study_did_not_report__.tex
 In_contrast_to_the_previous__.tex
 Ives_Deliperi_Howells_Stein_Meintjes__.tex
 For_the_self_reported_measures__.tex
+From_the_6_studies_only__.tex
