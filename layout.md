@@ -12,7 +12,7 @@ As_a_specific_clinical_treatment__.tex
 cite_williams_mindfulness_based_2008_completed_the__.tex
 Expanding_upon_the_cite_williams_mindfulness__.tex
 In_2010_cite_weber_mindfulness_based_2010__.tex
-This_study_did_not_report__.tex
+x__.tex
 In_contrast_to_the_previous__.tex
 Ives_Deliperi_Howells_Stein_Meintjes__.tex
 For_the_self_reported_measures__.tex
