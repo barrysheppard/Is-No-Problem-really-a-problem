@@ -10,3 +10,4 @@ A_meta_analysis_of_39__.tex
 One_specific_program_of_therapy__.tex
 As_a_specific_clinical_treatment__.tex
 Williams_et_al_2008_completed__.tex
+The_study_found_that_both__.tex
