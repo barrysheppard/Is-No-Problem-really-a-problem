@@ -8,3 +8,4 @@ One_negative_thought_when_dwelled__.tex
 Jon_Kabat_Zinn_introduced_mindfulness__.tex
 A_meta_analysis_of_39__.tex
 One_specific_program_of_therapy__.tex
+As_a_specific_clinical_treatment__.tex
