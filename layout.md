@@ -5,7 +5,6 @@ Bipolar_I_disorder_is_a__1.tex
 The_primary_treatment_for_bipolar__.tex
 Mindfulness_in_short_is_an__.tex
 In_modern_life_it_is__.tex
-x__.tex
 Jon_Kabat_Zinn_introduced_mindfulness__.tex
 A_meta_analysis_of_39__.tex
 One_specific_program_of_therapy__.tex
