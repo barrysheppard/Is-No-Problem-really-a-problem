@@ -2,4 +2,4 @@ untitled.tex
 Bipolar_disorder_is_one_of__.tex
 Bipolar_I_disorder_is_a__1.tex
 The_primary_treatment_for_bipolar__.tex
-Bipolar_I_disorder_is_a__.tex
+Bipolar_disorder_is_one_of__1.tex
