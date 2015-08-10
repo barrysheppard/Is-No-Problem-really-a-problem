@@ -6,3 +6,4 @@ The_primary_treatment_for_bipolar__.tex
 In_modern_life_it_is__.tex
 One_negative_thought_when_dwelled__.tex
 Jon_Kabat_Zinn_introduced_mindfulness__.tex
+A_meta_analysis_of_39__.tex
