@@ -1,3 +1,2 @@
 untitled.tex
 Bipolar_disorder_is_one_of__.tex
-figures/Unknown/Unknown.png
