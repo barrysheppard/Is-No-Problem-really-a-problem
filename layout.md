@@ -10,7 +10,7 @@ A_meta_analysis_of_39__.tex
 One_specific_program_of_therapy__.tex
 As_a_specific_clinical_treatment__.tex
 cite_williams_mindfulness_based_2008_completed_the__.tex
-Expanding_upon_the_Williams_et__.tex
+Expanding_upon_the_cite_williams_mindfulness__.tex
 In_2010_Weber_et_al__.tex
 This_study_did_not_report__.tex
 In_contrast_to_the_previous__.tex
