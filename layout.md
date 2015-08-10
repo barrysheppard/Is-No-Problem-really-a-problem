@@ -1,5 +1,4 @@
 untitled.tex
 Bipolar_disorder_is_one_of__.tex
-The_pathogenesis_of_the_disorder__.tex
 On_average_one_fifth_of__.tex
 Bipolar_I_disorder_is_a__.tex
