@@ -16,5 +16,4 @@ In_contrast_to_the_previous__.tex
 cite_ives_deliperi_effects_2013_completed_an__.tex
 For_the_self_reported_measures__.tex
 From_the_6_studies_only__.tex
-Five_of_the_studies_supported__.tex
 In_summary_research_in_this__.tex
