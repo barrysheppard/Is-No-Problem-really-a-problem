@@ -1,4 +1,3 @@
-untitled.tex
 Mindfulness_has_become_an_increasingly__.tex
 Bipolar_disorder_is_one_of__.tex
 Bipolar_I_disorder_is_a__1.tex
