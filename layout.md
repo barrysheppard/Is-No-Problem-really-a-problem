@@ -16,3 +16,4 @@ In_2010_Weber_et_al__.tex
 This_study_did_not_report__.tex
 In_contrast_to_the_previous__.tex
 Ives_Deliperi_Howells_Stein_Meintjes__.tex
+For_the_self_reported_measures__.tex
